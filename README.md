@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **sirakayaseyma/sirakayaseyma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Computer Engineer 
+
+<!-- 📫 How to reach me **seymaagundogduuu@gmail.com** -->
+- I’m currently learning Selenium
+
+<a href="https://github.com/sirakayaseyma"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirakayaseyma&bg_color=0d1117&theme=algolia&text_color=bdc3c7&title_color=F4D03E&hide_border=true&layout=compact&langs_count=10" /></a>
