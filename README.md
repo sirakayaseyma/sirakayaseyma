@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Computer Engineer 
+- I’m currently learning Python - Selenium 
+- How to reach me **sirakaya.seymaa@gmail.com**
 
-<!-- 📫 How to reach me **seymaagundogduuu@gmail.com** -->
-- I’m currently learning Selenium
+
+
 
 <a href="https://github.com/sirakayaseyma"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirakayaseyma&bg_color=0d1117&theme=algolia&text_color=bdc3c7&title_color=F4D03E&hide_border=true&layout=compact&langs_count=10" /></a>
