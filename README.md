@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Computer Engineer 
-- I’m currently learning Python - Selenium 
+- I’m currently learning Python 
 - How to reach me **sirakaya.seymaa@gmail.com**
 
 
